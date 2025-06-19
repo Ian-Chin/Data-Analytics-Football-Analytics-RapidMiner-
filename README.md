@@ -1,1 +1,1 @@
- 
+presents a comprehensive project focused on analyzing football match outcomes through both descriptive and predictive analytics. Utilizing historical match data, the project aims to uncover patterns and relationships that influence game results, particularly considering teams' home or away statuses.
